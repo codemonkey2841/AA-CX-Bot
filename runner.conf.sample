@@ -1,0 +1,15 @@
+[Account]
+user=
+password=
+player=
+
+[Files]
+path=runner.path
+matches=runner.matches
+cmd=runner.command
+log=runner.log
+catch=runner.catch
+
+[Broker]
+name=Lou
+location=CX
